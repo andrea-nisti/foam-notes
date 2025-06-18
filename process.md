@@ -6,7 +6,7 @@
 - protected from other processes 
 - identified with unique process ids pid
 
-![process](process.png)
+![process](assets/process.png)
 
 # thread 
 

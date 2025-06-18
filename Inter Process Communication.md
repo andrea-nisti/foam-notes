@@ -14,13 +14,13 @@ qnx providex the following:
 
 - synchronous
 
-![qnx messages](qnxmessages.png)
+![qnx messages](assets/qnxmessages.png)
 
  ## pulses
 
 - async 
 
-![qnx pulse](image-1.png) 
+![qnx pulse](assets/image-1.png) 
 
 ## signals 
 
@@ -29,4 +29,4 @@ qnx providex the following:
 
 ## message queues 
 
-![message queue](image-2.png)
+![message queue](assets/image-2.pnge-2.png)
