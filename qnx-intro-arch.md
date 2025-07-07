@@ -7,14 +7,17 @@
   - `procnto` is the kernel --> process manager + neutrino (microkernel name) 
   - drivers processes too
 
+## Neutrino
 
-## Neutrino 
 - handles [threads](process.md), rtos [[scheduling]] and ipc
 - reached by kernel calls
-## Procnto 
+
+## Procnto
+
 - reached with message passing
 - pid 1
 - handles processes creation and destruction, memory
+
 ---
 Note Created: 2025-06-17
 
